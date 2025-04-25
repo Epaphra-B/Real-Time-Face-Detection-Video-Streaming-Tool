@@ -93,4 +93,6 @@ instance/
 # Logs
 *.log
 
+# Ignore the assets/ directory if it contains temporary or generated files
 
+!assets/.gitkeep
